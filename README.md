@@ -1,4 +1,4 @@
-# Stock-Prediction-Model 🚀
+# Stock-Prediction-Model 
 
 **Focus:** A lean version of a stock forecasting & trading simulation system using LSTM, GRU, Q-learning and Monte Carlo 
 ---
