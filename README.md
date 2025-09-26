@@ -11,8 +11,6 @@ This project delivers a minimal but representative pipeline for **stock price fo
 - **Reinforcement learning (Q-learning)** agent to convert signals into trading decisions  
 - **Monte Carlo simulations & portfolio optimization** to stress-test strategies  
 
-The goal is to show an end-to-end system: training → simulation → deployment.
-
 ---
 
 ## Architecture & Modules
